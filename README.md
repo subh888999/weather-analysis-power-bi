@@ -22,8 +22,7 @@ It explores weather patterns, temperature variations, and seasonal changes using
 - `preview.png` → Static image preview of the dashboard 
 - `README.md` → Documentation
 
-## 📸 Dashboard Preview
-![Dashboard Preview]()
+
 
 ## 🚀 How to View This Project
 Since this project is created as part of my learning and I don’t have permission to publish it online:
