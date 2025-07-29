@@ -19,7 +19,7 @@ It explores weather patterns, temperature variations, and seasonal changes using
 
 ## 📂 Repository Contents
 - `weather analysis.pbix` → Main Power BI project file
-- `preview.png` → Static image preview of the dashboard
+- `preview.png` → Static image preview of the dashboard 
 - `README.md` → Documentation
 
 ## 📸 Dashboard Preview
